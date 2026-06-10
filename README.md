@@ -11,3 +11,4 @@ I like creating digital hobby stuff that makes life easier, prettier or more fun
 - 🆎 **[ArmASCII](https://github.com/sarkisandreyan/armascii)** — an open standard and set of tools for creating and rendering feature-rich ASCII fonts, inspired by FIGLet and OpenType
   - 🔠 **[Banner Armenian](https://previewer.andreyan.com/?font=banner-armenian&lang=en&utm_source=github&utm_medium=referral&utm_campaign=sarkisandreyan_repo&utm_content=list_item)** — a feature-rich ArmASCII font covering the Armenian script
 - ⛓️‍💥 **[Tracker Stripper](https://stripper.andreyan.com/?utm_source=github&utm_medium=referral&utm_campaign=sarkisandreyan_repo&utm_content=list_item)** — a utility app to remove trackers from shareable social media links
+- 📟 **[macOS System Fonts Patcher](https://github.com/sarkisandreyan/replace-macos-armenian-fonts)** — a utility tool to easily change the macOS system fonts for Armenian with a font of your liking
