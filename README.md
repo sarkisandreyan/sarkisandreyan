@@ -4,7 +4,7 @@ I'm a linguistics major and a typography nerd with more than a decade of experie
 
 I like creating digital hobby stuff that makes life easier, prettier or more fun for me (and hopefully others).
 
-📫 sarkis@andreyan.com&ensp;&middot;&ensp;📸 [@krmapet](https://www.instagram.com/krmapet)&ensp;&middot;&ensp;🧋 [Buy Me a Coffee](https://buymeacoffee.com/krmapet)
+[![sarkis@andreyan.com](https://img.shields.io/badge/sarkis@andreyan.com-gold?logo=mail.ru&logoColor=333)](mailto:sarkis@andreyan.com)&ensp;[![@krmapet on Instagram](https://img.shields.io/badge/@krmapet-gold?logo=instagram&logoColor=333)](https://instagram.com/krmapet)&ensp;[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-gold?logo=buymeacoffee&logoColor=333)](https://buymeacoffee.com/krmapet)
 
 ### Some of my project highlights:
 - 🎚️ **[Speed Changer](https://github.com/sarkisandreyan/speed-changer)** — a user-friendly cross-browser extension to easily control the playing speed of media content using on-page controls (and not only)
