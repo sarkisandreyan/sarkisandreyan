@@ -8,6 +8,7 @@ I like creating digital hobby stuff that makes life easier, prettier or more fun
 
 ### Some of my project highlights:
 - 🎚️ **[Speed Changer](https://github.com/sarkisandreyan/speed-changer)** — a user-friendly cross-browser extension to easily control the playing speed of media content using on-page controls (and not only)
+- 📝 **["How to Create a QR Code Manually"](https://qr.andreyan.com/en?utm_source=github&utm_medium=referral&utm_campaign=sarkisandreyan_repo&utm_content=list_item)** — a hands-on guide on how to draw working QR codes on paper
 - 🆎 **[ArmASCII](https://github.com/sarkisandreyan/armascii)** — an open standard and set of tools for creating and rendering feature-rich ASCII fonts, inspired by FIGLet and OpenType
   - 🔠 **[Banner Armenian](https://previewer.andreyan.com/?font=banner-armenian&lang=en&utm_source=github&utm_medium=referral&utm_campaign=sarkisandreyan_repo&utm_content=list_item)** — a feature-rich ArmASCII font covering the Armenian script
 - ⛓️‍💥 **[Tracker Stripper](https://stripper.andreyan.com/?utm_source=github&utm_medium=referral&utm_campaign=sarkisandreyan_repo&utm_content=list_item)** — a utility app to remove trackers from shareable social media links
